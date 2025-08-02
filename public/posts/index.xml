@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Reise Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Reise Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag 01 Peking</title>
+      <link>http://localhost:1313/posts/muster-post/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/muster-post/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;bild.jpg&#34; alt=&#34;Beispielbild&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
