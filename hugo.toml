@@ -2,7 +2,10 @@ baseURL = 'https://china2025.netlify.app/'
 languageCode = 'en-us'
 title = 'Reise Blog'
 theme = "pehtheme"
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 [menu]
 
   [[menu.main]]

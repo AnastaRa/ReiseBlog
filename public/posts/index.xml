@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/muster-post/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/muster-post/</guid>
-      <description>&lt;p&gt;TEXT&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;bild.jpg&#34; alt=&#34;Beispielbild&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Test 123&lt;/p&gt;&#xA;&lt;iframe class=&#34;alltrails&#34; &#xA;    src=&#34;https://www.alltrails.com/widget/map/baoguo-temple-mount-emei-efd5a10?u=m&amp;sh=lo3glv&#34; &#xA;    width=&#34;100%&#34; height=&#34;400&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &#xA;    marginheight=&#34;0&#34; marginwidth=&#34;0&#34; &#xA;    title=&#34;AllTrails: Trail Guides and Maps for Hiking, Camping, and Running&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;img src=&#34;bild.jpg&#34; alt=&#34;Beispielbild&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
