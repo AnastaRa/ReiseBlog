@@ -1,11 +1,10 @@
 +++
-title = "Tag 01 Peking"
-date = 2025-08-01
-draft = false
-image = "thumbnail.jpg"
+title = "05 Emei Shan"
+draft = true
+image = "Emeithumbnail.jpg"
 +++
 
-Test 123
+TEXT
 
 <iframe class="alltrails" 
     src="https://www.alltrails.com/widget/map/baoguo-temple-mount-emei-efd5a10?u=m&sh=lo3glv" 
@@ -14,4 +13,4 @@ Test 123
     title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running">
 </iframe>
 
-![Beispielbild](bild.jpg)
+

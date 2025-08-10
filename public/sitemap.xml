@@ -2,18 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/01-peking/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/02-shanghai/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/muster-post/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/03-xian/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/04-chengdu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/05-emei-shan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/06-kunming/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/0708-west-yunnan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/091011-li-jiang/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/12-hong-kong/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

@@ -6,14 +6,69 @@
     <description>Recent content on Reise Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tag 01 Peking</title>
-      <link>http://localhost:1313/posts/muster-post/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/muster-post/</guid>
-      <description>&lt;p&gt;Test 123&lt;/p&gt;&#xA;&lt;iframe class=&#34;alltrails&#34; &#xA;    src=&#34;https://www.alltrails.com/widget/map/baoguo-temple-mount-emei-efd5a10?u=m&amp;sh=lo3glv&#34; &#xA;    width=&#34;100%&#34; height=&#34;400&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &#xA;    marginheight=&#34;0&#34; marginwidth=&#34;0&#34; &#xA;    title=&#34;AllTrails: Trail Guides and Maps for Hiking, Camping, and Running&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;img src=&#34;bild.jpg&#34; alt=&#34;Beispielbild&#34;&gt;&lt;/p&gt;</description>
+      <title>01 Peking</title>
+      <link>http://localhost:1313/posts/01-peking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/01-peking/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02 Shanghai</title>
+      <link>http://localhost:1313/posts/02-shanghai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/02-shanghai/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03 Xi&#39;an</title>
+      <link>http://localhost:1313/posts/03-xian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/03-xian/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>04 Chengdu</title>
+      <link>http://localhost:1313/posts/04-chengdu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/04-chengdu/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>05 Emei Shan</title>
+      <link>http://localhost:1313/posts/05-emei-shan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/05-emei-shan/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;&#xA;&lt;iframe class=&#34;alltrails&#34; &#xA;    src=&#34;https://www.alltrails.com/widget/map/baoguo-temple-mount-emei-efd5a10?u=m&amp;sh=lo3glv&#34; &#xA;    width=&#34;100%&#34; height=&#34;400&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &#xA;    marginheight=&#34;0&#34; marginwidth=&#34;0&#34; &#xA;    title=&#34;AllTrails: Trail Guides and Maps for Hiking, Camping, and Running&#34;&gt;&#xA;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>06 Kunming</title>
+      <link>http://localhost:1313/posts/06-kunming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/06-kunming/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>07/08 West Yunnan</title>
+      <link>http://localhost:1313/posts/0708-west-yunnan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/0708-west-yunnan/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>09/10/11 Li Jiang</title>
+      <link>http://localhost:1313/posts/091011-li-jiang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/091011-li-jiang/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>12 Hong Kong</title>
+      <link>http://localhost:1313/posts/12-hong-kong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/12-hong-kong/</guid>
+      <description>&lt;p&gt;TEXT&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
