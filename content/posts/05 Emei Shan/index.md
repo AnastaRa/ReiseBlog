@@ -1,7 +1,7 @@
 +++
 title = "05 Emei Shan"
 draft = true
-date = 2025-09-07
+date = "2025-09-07"
 image = "Emeithumbnail.jpg"
 +++
 
