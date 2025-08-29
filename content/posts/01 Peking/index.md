@@ -2,7 +2,7 @@
 title = "01 Peking"
 draft = false
 date = "2025-08-27"
-image = "assets/Pekingthumbnail.jpeg"
+image = "Pekingthumbnail.jpeg"
 +++
 
 **Tag 0:**
