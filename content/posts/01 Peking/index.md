@@ -4,8 +4,10 @@ draft = false
 date = "2025-08-27"
 image = "Pekingthumbnail.jpeg"
 +++
+**Springe zu:** [Tag 0](#tag-0) · [Tag 1](#tag-1)
 
-**Tag 0:**
+---
+## Tag 0 {#tag-0}
 
 *„Chicken and Beef or Beef?“. „Do you have a vegetarian Option?… no beef?“* die Stewardessen tauschen bei dieser Frage verwirrte Blicke aus. *„No beef“* zu finden wird für David in China wohl eher eine Herausforderung werden. Naja, zurück zum Film, Mao und die Rote Armee müssen die faschistischen Japaner noch vom Xinjang Fluss zurückdrängen. Der große Vorsitzende reitet Sattellos mit wehendem Haar seinen Genossen voraus. Seine Medizin gibt er bereitwillig einem Kameraden, die brauchen sie dringender als er. Umsteigen in Guangzhou. Ein Willkommens-Kommando aus drei Personen begleitet uns durch sämtliche Check-in und -out Prozesse. Jedes Dokument wird uns prompt aus der Hand genommen, es wird penibel darauf geachtet uns den nächsten Schritt zu gestikulieren, Englisch spricht nur der Anführer des Trüppchens; den Anschluss zu verpassen ist keine Option.
 
@@ -27,4 +29,10 @@ Am Nachmittag stapften wir durch den Regen, um die Wohnblocks in unserer Umgebun
 Der Gegner der späten Stunde: Jetlag. Ein Ausflug zu einem der Hutongs sollte uns wach halten. Nach 2 Sicherheitskontrollen schafften wir gerade mal einige hundert Meter bis wir in einem Restaurant dem Regen entflohen.
 Zurück im Hostel: Letzter Gang ins Bad, Hygiene neben Raucher auf Hock-Toilette; Vorhang zuziehen, Licht aus, bis morgen. 
 Die durchnässten Schuhe schlafen im Gang. 
+
+---
+
+## Tag 1 {#tag-1}
+
+bald…
 
